@@ -1,0 +1,27 @@
+{
+  "id": "./",
+  "name": "Stick City",
+  "short_name": "Stick City",
+  "description": "Juego de mundo abierto con un stickman: hacé misiones, manejá autos, conseguí armas y escapá de la policía en una ciudad llena de NPCs.",
+  "lang": "es-AR",
+  "start_url": "./",
+  "scope": "./",
+  "display": "fullscreen",
+  "display_override": ["fullscreen", "standalone"],
+  "orientation": "landscape",
+  "background_color": "#000000",
+  "theme_color": "#ff7a2f",
+  "categories": ["games", "entertainment"],
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-1024.png", "sizes": "1024x1024", "type": "image/png", "purpose": "any" },
+    { "src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ],
+  "screenshots": [
+    { "src": "screenshot-1.png", "sizes": "1920x1080", "type": "image/png", "form_factor": "wide", "label": "La ciudad" },
+    { "src": "screenshot-2.png", "sizes": "1920x1080", "type": "image/png", "form_factor": "wide", "label": "Apuntando" },
+    { "src": "screenshot-3.png", "sizes": "1920x1080", "type": "image/png", "form_factor": "wide", "label": "Misiones" },
+    { "src": "screenshot-4.png", "sizes": "1920x1080", "type": "image/png", "form_factor": "wide", "label": "Autos" }
+  ]
+}
